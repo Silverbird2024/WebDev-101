@@ -23,11 +23,54 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #TextArea1 {position:absolute;left:12px;top:113px;width:390px;height:600px;margin:0;}
 #Headline3 {position:absolute;left:14px;top:10px;width:109px;height:26px;margin:0;color:#F0F8FF;font-size:12pt;text-align:center;text-shadow:2px 2px 2px red}
 #MyAppStore01 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
-#Headline4 {position:absolute;left:31px;top:31px;width:354px;height:86px;margin:0;color:#F0F8FF;text-align:center;text-shadow:2px 2px 2px red}
-#PushButton8 {position:absolute;left:307px;top:17px;width:96px;height:51px;margin:0;color:red;font-size:20pt;font-weight:600;text-align:center;opacity:0.55}
+#Headline4 {position:absolute;left:21px;top:31px;width:354px;height:86px;margin:0;color:#F0F8FF;text-align:center;text-shadow:2px 2px 2px red}
+#PushButton8 {position:absolute;left:292px;top:17px;width:96px;height:51px;margin:0;color:red;font-size:20pt;font-weight:600;text-align:center;opacity:0.55}
 #PushButton8:hover {color:blue;font-size:20pt;opacity:0.67}
-#TextArea2 {position:absolute;left:12px;top:113px;width:390px;height:600px;margin:0;}
+#TextArea2 {position:absolute;left:18px;top:173px;width:375px;height:1365px;margin:0;}
 #Headline5 {position:absolute;left:14px;top:10px;width:200px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:center;text-shadow:2px 2px 2px red}
+#PushButton12 {position:absolute;left:18px;top:122px;width:62px;height:42px;margin:0;}
+#MyAppStore02 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Headline13 {position:absolute;left:23px;top:35px;width:354px;height:86px;margin:0;color:#F0F8FF;text-align:center;text-shadow:2px 2px 2px red}
+#PushButton13 {position:absolute;left:295px;top:17px;width:94px;height:51px;margin:0;color:red;font-size:20pt;font-weight:600;text-align:center;opacity:0.55}
+#PushButton13:hover {color:blue;font-size:20pt;opacity:0.67}
+#TextArea6 {position:absolute;left:15px;top:142px;width:376px;height:77px;margin:0;}
+#Headline14 {position:absolute;left:14px;top:10px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#TextArea7 {position:absolute;left:14px;top:252px;width:376px;height:132px;margin:0;}
+#Headline15 {position:absolute;left:16px;top:117px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#Headline16 {position:absolute;left:15px;top:224px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#TextArea8 {position:absolute;left:16px;top:439px;width:376px;height:77px;margin:0;}
+#TextArea9 {position:absolute;left:15px;top:549px;width:376px;height:132px;margin:0;}
+#Headline17 {position:absolute;left:17px;top:414px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#Headline18 {position:absolute;left:16px;top:521px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#Pager3 {position:absolute;left:137px;top:695px;width:153px;height:26px;margin:0;}
+#MyAppStore03 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Headline19 {position:absolute;left:23px;top:35px;width:354px;height:86px;margin:0;color:#F0F8FF;text-align:center;text-shadow:2px 2px 2px red}
+#PushButton14 {position:absolute;left:295px;top:17px;width:94px;height:51px;margin:0;color:red;font-size:20pt;font-weight:600;text-align:center;opacity:0.55}
+#PushButton14:hover {color:blue;font-size:20pt;opacity:0.67}
+#TextArea10 {position:absolute;left:15px;top:142px;width:376px;height:77px;margin:0;}
+#Headline20 {position:absolute;left:14px;top:10px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#TextArea11 {position:absolute;left:14px;top:252px;width:376px;height:132px;margin:0;}
+#Headline21 {position:absolute;left:16px;top:117px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#Headline22 {position:absolute;left:15px;top:224px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#TextArea12 {position:absolute;left:16px;top:439px;width:376px;height:77px;margin:0;}
+#TextArea13 {position:absolute;left:15px;top:549px;width:376px;height:132px;margin:0;}
+#Headline23 {position:absolute;left:17px;top:414px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#Headline24 {position:absolute;left:16px;top:521px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#Pager2 {position:absolute;left:137px;top:695px;width:153px;height:26px;margin:0;}
+#MyAppStore04 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Headline25 {position:absolute;left:23px;top:35px;width:354px;height:86px;margin:0;color:#F0F8FF;text-align:center;text-shadow:2px 2px 2px red}
+#PushButton15 {position:absolute;left:295px;top:17px;width:94px;height:51px;margin:0;color:red;font-size:20pt;font-weight:600;text-align:center;opacity:0.55}
+#PushButton15:hover {color:blue;font-size:20pt;opacity:0.67}
+#TextArea14 {position:absolute;left:15px;top:142px;width:376px;height:77px;margin:0;}
+#Headline26 {position:absolute;left:14px;top:10px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#TextArea15 {position:absolute;left:14px;top:252px;width:376px;height:132px;margin:0;}
+#Headline27 {position:absolute;left:16px;top:117px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#Headline28 {position:absolute;left:15px;top:224px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#TextArea16 {position:absolute;left:16px;top:439px;width:376px;height:77px;margin:0;}
+#TextArea17 {position:absolute;left:15px;top:549px;width:376px;height:132px;margin:0;}
+#Headline29 {position:absolute;left:17px;top:414px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#Headline30 {position:absolute;left:16px;top:521px;width:275px;height:21px;margin:0;color:#F0F8FF;font-size:12pt;text-align:left;text-shadow:2px 2px 2px red}
+#Pager1 {position:absolute;left:137px;top:695px;width:153px;height:26px;margin:0;}
 #MyDevService01 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
 #Headline6 {position:absolute;left:31px;top:31px;width:354px;height:86px;margin:0;color:#F0F8FF;text-align:center;text-shadow:2px 2px 2px red}
 #PushButton9 {position:absolute;left:307px;top:17px;width:96px;height:51px;margin:0;color:red;font-size:20pt;font-weight:600;text-align:center;opacity:0.55}
