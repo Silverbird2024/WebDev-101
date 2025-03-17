@@ -17,11 +17,13 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton7 {position:absolute;left:6px;top:696px;width:42px;height:36px;margin:0;color:blue;opacity:0.29}
 #Headline12 {position:absolute;left:10px;top:4px;width:354px;height:28px;margin:0;color:#F0F8FF;font-size:9pt}
 #General01 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
-#Headline2 {position:absolute;left:31px;top:31px;width:354px;height:86px;margin:0;color:#F0F8FF;text-align:center;text-shadow:2px 2px 2px red}
-#PushButton1 {position:absolute;left:307px;top:17px;width:96px;height:51px;margin:0;color:red;font-size:20pt;font-weight:600;text-align:center;opacity:0.55}
+#Headline2 {position:absolute;left:28px;top:30px;width:354px;height:86px;margin:0;color:#F0F8FF;text-align:center;text-shadow:2px 2px 2px red}
+#PushButton1 {position:absolute;left:299px;top:18px;width:92px;height:49px;margin:0;color:red;font-size:20pt;font-weight:600;text-align:center;opacity:0.55}
 #PushButton1:hover {color:blue;font-size:20pt;opacity:0.67}
-#TextArea1 {position:absolute;left:12px;top:113px;width:390px;height:600px;margin:0;}
+#TextArea1 {position:absolute;left:12px;top:113px;width:380px;height:600px;margin:0;}
 #Headline3 {position:absolute;left:14px;top:10px;width:109px;height:26px;margin:0;color:#F0F8FF;font-size:12pt;text-align:center;text-shadow:2px 2px 2px red}
+#Container1 {position:absolute;left:1px;top:753px;width:381px;height:680px;margin:0;border-width:1px;border-style:solid;background-color:#fff;;overflow-x:hidden;overflow-y:hidden}
+#Image1 {position:absolute;left:3px;top:5px;width:375px;height:659px;margin:0;}
 #MyAppStore01 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
 #Headline4 {position:absolute;left:21px;top:31px;width:354px;height:86px;margin:0;color:#F0F8FF;text-align:center;text-shadow:2px 2px 2px red}
 #PushButton8 {position:absolute;left:292px;top:17px;width:96px;height:51px;margin:0;color:red;font-size:20pt;font-weight:600;text-align:center;opacity:0.55}
